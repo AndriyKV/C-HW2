@@ -54,7 +54,7 @@ namespace HW2
         }
         static void Main(string[] args)
         {
-            ////HW2 TASK "A"___________123123__________________________________________________________________________________
+            ////HW2 TASK "A"_____________________________________________________________________________________________
 
             //Console.WriteLine("Please, enter 3 float numbers.");
             //string chA = Console.ReadLine();
